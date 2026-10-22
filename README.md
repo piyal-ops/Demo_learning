@@ -1,3 +1,3 @@
 # Demo_learning
 demo learning <br>
-Author: Piyal Chowdhury
+Author: Piyal Chowdhury (NSU)
